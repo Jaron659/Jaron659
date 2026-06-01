@@ -233,9 +233,9 @@ const yogeshwaran = {
     <img src="https://img.shields.io/badge/Email-yogeshwaran.m1813%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/yogesh-waran-m-654a72288/">
-    <img src="https://img.shields.io/badge/LinkedIn-yogesh--waran--m-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/yogeshwaran-muthupandi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
   <br/>
   <a href="https://github.com/Jaron659">
     <img src="https://img.shields.io/badge/GitHub-Jaron659-181717?style=flat-square&logo=github&logoColor=white"/>
