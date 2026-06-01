@@ -21,23 +21,23 @@
 
 ```javascript
 const yogeshwaran = {
-  name        : "Yogeshwaran M",
-  location    : "Sivakasi, Tamil Nadu, India 🇮🇳",
-  degree      : "B.E. Computer Science & Engineering (2022–2026)",
-  college     : "Mepco Schlenk Engineering College",
+  Name        : "Yogeshwaran M",
+  Location    : "Sivakasi, Tamil Nadu, India 🇮🇳",
+  Degree      : "B.E. Computer Science & Engineering (2022–2026)",
+  College     : "Mepco Schlenk Engineering College",
 
   stack: {
-    languages  : ["Java", "Python", "C", "C++", "JavaScript"],
-    frontend   : ["ReactJS", "HTML5", "CSS3"],
-    backend    : ["Node.js", "Express.js"],
-    databases  : ["MySQL", "MongoDB"],
-    tools      : ["Git", "GitHub", "VS Code", "Android Studio"],
+    Languages  : ["Java", "Python", "C", "C++", "JavaScript"],
+    Frontend   : ["ReactJS", "HTML5", "CSS3"],
+    Backend    : ["Node.js", "Express.js", RESTs API],
+    Databases  : ["MySQL", "MongoDB"],
+    Tools      : ["Git", "GitHub", "VS Code", "Android Studio"],
   },
 
-  currentlyLearning : ["System Design", "DSA", "Cloud Computing"],
+  CurrentlyLearning : ["System Design", "DSA", "Cloud Computing"],
 
-  funFact  : "I debug with console.log() and I'm not ashamed 😄",
-  motto()  { return "Write clean code. Build real things. Keep learning."; },
+  FunFact  : "I debug with console.log() and I'm not ashamed 😄",
+  Motto()  { return "Write clean code. Build real things. Keep learning."; },
 };
 ```
 
