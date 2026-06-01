@@ -29,7 +29,7 @@ const yogeshwaran = {
   stack: {
     Languages  : ["Java", "Python", "C", "C++", "JavaScript"],
     Frontend   : ["ReactJS", "HTML5", "CSS3"],
-    Backend    : ["Node.js", "Express.js", RESTs API],
+    Backend    : ["Node.js", "Express.js", "RESTs API"],
     Databases  : ["MySQL", "MongoDB"],
     Tools      : ["Git", "GitHub", "VS Code", "Android Studio"],
   },
